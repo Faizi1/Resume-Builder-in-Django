@@ -1,0 +1,49 @@
+/* Fonts */
+
+.st-fonts{
+    font-family: 'Satisfy', cursive;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.container-fluid
+{
+    min-height: 100%;
+}
+
+/* Service Icon Color */
+
+.i-color
+{
+    color: chartreuse;
+}
+
+/* Service Subtitle Color */
+.ss-color {
+    color: silver;
+}
+
+/* nav-link */
+a.nav-link{
+    color: whitesmoke;
+}
+
+a.nav-link:hover{
+    color: black;
+    background-color: #e9cd79;
+}
+
+a.nav-link.active{
+    color: black;
+    background-color: #e9cd79;
+    font-weight: bold;
+}
+
+/* icon margin */
+.mrgin{
+    margin-left: 10px;
+    border: 2px solid rebeccapurple;
+}
