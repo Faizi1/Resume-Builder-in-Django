@@ -5,4 +5,4 @@ Resume Builder in Django
 
 * Deploy this website on pythonanywhere
 Here is the link for the website:   
-```bash http://faizi1.pythonanywhere.com/ ''' 
+ http://faizi1.pythonanywhere.com/ 
